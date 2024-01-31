@@ -1,0 +1,50 @@
+*
+body {
+    font-family: 'Algerian', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f3ebeb;
+    background-image: url(https://www.elegantthemes.com/blog/wp-content/uploads/2023/06/What-is-AI-1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+header {
+    background-color: #333;
+    color: #f6f5f5;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.date {
+    color: #888;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #eae4e4;
+    box-shadow: 0 0 10px rgba(245, 241, 241, 0.1);
+    border-radius: 5px;
+}
+
+article p {
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
